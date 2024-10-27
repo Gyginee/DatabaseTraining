@@ -20,6 +20,3 @@ To view a visual representation of the database structure, see the image in the 
 1. Clone the project to your local machine.
 2. Open SSMS and connect to SQL Server.
 3. Execute the SQL files to create tables and stored procedures.
-
-## Contact
-For any questions, feel free to contact me via email.
