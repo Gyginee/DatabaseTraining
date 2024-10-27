@@ -10,7 +10,7 @@ This project utilizes the **WideWorldImportersDW 2016** sample database from Mic
 
 ## Reference Image
 To view a visual representation of the database structure, see the image in the `access` folder:
-![Database Diagram](access/dbimg.png)
+![Database Diagram](Access/dbimg.png)
 
 ## System Requirements
 - SQL Server 2016 or higher
